@@ -11,7 +11,6 @@ public class TestAdapter {
 		IFilm film = new Film("Ursul");
 		IFilm pelicula = new PeliculaAdaptata("Apele tac");
 		
-	
 		ruleazaFilm(film);
 		ruleazaFilm(pelicula);
 	}
